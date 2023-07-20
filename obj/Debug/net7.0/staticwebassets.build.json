@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R19Wm0lVN81RAB4v/IbxmORYLbfKMoNHE0oTsUC9Bj0=",
+  "Source": "CrawlDataWebAPI",
+  "BasePath": "_content/CrawlDataWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
